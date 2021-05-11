@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "698634403165",
+    "firebase_url": "https://motor-22f81.firebaseio.com",
+    "project_id": "motor-22f81",
+    "storage_bucket": "motor-22f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698634403165:android:b2b826634d9c3fb2efbcb4",
+        "android_client_info": {
+          "package_name": "com.belajar.motorapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDBT_97U_BBvMwsKDbcMmgmNsUZp2V4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698634403165:android:44904bab11efbadbefbcb4",
+        "android_client_info": {
+          "package_name": "com.belajar.rvpraktikum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDBT_97U_BBvMwsKDbcMmgmNsUZp2V4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698634403165:android:4111b93abf754c3defbcb4",
+        "android_client_info": {
+          "package_name": "com.belajar.tugastpm5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDBT_97U_BBvMwsKDbcMmgmNsUZp2V4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698634403165:android:2c72d7c9e330c393efbcb4",
+        "android_client_info": {
+          "package_name": "com.erpeel.motor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDBT_97U_BBvMwsKDbcMmgmNsUZp2V4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698634403165-nrt2ursfd1bcgnle79t6dairplrue6nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

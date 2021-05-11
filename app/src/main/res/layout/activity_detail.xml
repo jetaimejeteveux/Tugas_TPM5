@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_height="match_parent"
+android:layout_width="match_parent"
+android:background="@color/colorPrimaryDark"
+tools:context=".DetailActivity">
+
+<ImageView
+    android:id="@+id/iv_motor_detail_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="220dp"
+    android:scaleType="centerCrop"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:srcCompat="@drawable/iv_motor" />
+
+<TextView
+    android:id="@+id/tv_plat_motor_detail_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="16dp"
+    android:text="R 6616 WN"
+    android:textColor="#FFF"
+    android:textSize="18sp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/iv_motor_detail_tersedia" />
+
+<TextView
+    android:id="@+id/tv_jenis_detail_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:fontFamily="@font/montserrat"
+    android:text="Mio"
+    android:textColor="#FFF"
+    android:textSize="12sp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/tv_plat_motor_detail_tersedia" />
+
+<TextView
+    android:id="@+id/textView13"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="16dp"
+    android:text="Kapasitas Mesin"
+    android:textColor="#FFF"
+    android:textSize="18sp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/tv_jenis_detail_tersedia" />
+
+<TextView
+    android:id="@+id/tv_kapasitas_mesin_detail_tersedia"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="4dp"
+    android:fontFamily="@font/montserrat"
+    android:text="125 cc"
+    android:textColor="#FFF"
+    android:textSize="12sp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/textView13" />
+
+
+    <TextView
+    android:id="@+id/tv_model_detail_tersedia"
+    android:drawableTop="@drawable/ic_motorcycle_active"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:layout_marginEnd="16dp"
+    android:text="Matic"
+    android:textColor="#FFF"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/iv_motor_detail_tersedia" />
+<TextView
+    android:id="@+id/tv_tahun_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:layout_marginEnd="16dp"
+    android:text="Tahun"
+    android:textColor="#FFFFFF"
+    android:textSize="18sp"
+    android:textStyle="bold"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/tv_model_detail_tersedia" />
+
+<TextView
+    android:id="@+id/tv_tahun_motor_detail_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="16dp"
+    android:text="2015"
+    android:textColor="#FFFFFF"
+    android:textSize="16sp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/tv_tahun_tersedia" />
+
+<TextView
+    android:id="@+id/tv_harga_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="16dp"
+    android:text="Harga"
+    android:textColor="#FFFFFF"
+    android:textSize="18sp"
+    android:textStyle="bold"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/tv_tahun_motor_detail_tersedia" />
+
+<TextView
+    android:id="@+id/tv_harga_motor_detail_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="2dp"
+    android:text="600000"
+    android:textColor="#FFFFFF"
+    app:layout_constraintStart_toEndOf="@+id/tv_rp"
+    app:layout_constraintTop_toBottomOf="@+id/tv_harga_tersedia" />
+
+    <ImageView
+        android:id="@+id/iv_share_detail_tersedia"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_share_black_24dp" />
+
+    <ImageView
+    android:id="@+id/iv_wishlist_detail_tersedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="8dp"
+    app:layout_constraintEnd_toStartOf="@+id/iv_share_detail_tersedia"
+    app:layout_constraintTop_toTopOf="parent"
+    app:srcCompat="@drawable/ic_star_border_black_24dp" />
+
+<TextView
+    android:id="@+id/tv_rp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:text="Rp."
+    android:textColor="#FFFFFF"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/tv_harga_tersedia" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

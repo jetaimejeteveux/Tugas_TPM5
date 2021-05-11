@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tugas TPM5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="cari_motor_second">Cari Motor Second?</string>
+    <string name="kamu_bisa_melihat_beragam_jenis_n_motor_murah_disini">Kamu bisa melihat beragam jenis\n motor murah disini</string>
+    <string name="kamu_bisa_memilih_waktu_untuk_mengecek_keadaan_motor_yang_kamu_suka">Kamu bisa memilih waktu untuk mengecek keadaan motor yang kamu suka</string>
+    <string name="book_an_appointment">Book an Appointment</string>
+    <string name="praktis_dan_aman">Praktis dan Aman</string>
+    <string name="bukti_pembayaran_motor_kesukaan_kamu_kami_kirim_ke_email">Bukti pembayaran motor kesukaan kamu kami kirim ke email</string>
+    <string name="welcome_back_nplease_login">Welcome back!\nPlease login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama">Nama</string>
+    <string name="firman_aulia">Firman Aulia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="firman_aulia_insani">Firman Aulia Insani</string>
+    <string name="akufirman22_gmail_com">akufirman22@gmail.com</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="riwayat_pemesanan">Riwayat Pemesanan</string>
+    <string name="motor">motor</string>
+    <string name="jual">jual</string>
+    <string name="profile">person</string>
+    <string name="profil">profile</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="home">home</string>
+    <string name="call">call</string>
+</resources>
